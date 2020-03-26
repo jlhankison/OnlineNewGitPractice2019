@@ -4,3 +4,4 @@ dragon fruit
 apple
 grape
 banana
+pineapple
