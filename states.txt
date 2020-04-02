@@ -5,3 +5,6 @@ Florida
 New York
 Rhode Island
 Pennsylvania
+Ohio
+Arizona
+Kansas
